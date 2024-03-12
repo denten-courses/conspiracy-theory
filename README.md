@@ -7,9 +7,7 @@
 
 ### Office Hours
 
-| Name          | Time        | Location         |
-| --------------|-------------| ---------------- |
-| Dennis YT     | W 4--5pm    | Philosophy 408e  |
+TBA
 
 ### Course Description
 
@@ -74,7 +72,7 @@ Introductions. Structure of the class. Topics covered. Grading and attendance po
 - Wender, Dorothea. “The Myth of Washington.” Arion: A Journal of Humanities and the
   Classics 3, no. 1 (1976): 71–78.
 
-- Selection from Metamorphoses (~8 CE) by Ovid.
+Explore: Selection from Metamorphoses (~8 CE) by Ovid.
 
 ### Week 3: Legend
 
@@ -84,7 +82,7 @@ Introductions. Structure of the class. Topics covered. Grading and attendance po
 - Fine, Gary Alan. “The Kentucky Fried Rat: Legends and Modern Society.” Journal of the
   Folklore Institute 17, no. 2/3 (1980): 222–43.
 
-- "The Legend of Sleepy Hollow" (1820) by Washington Irving.
+Explore: "The Legend of Sleepy Hollow" (1820) by Washington Irving.
 
 ### Week 4: Fairytale
 
@@ -93,7 +91,7 @@ Introductions. Structure of the class. Topics covered. Grading and attendance po
 - Zipes, Jack. “[The Meaning of Fairy Tale within the Evolution of Culture][42].” Marvels &
   Tales 25, no. 2 (2011): 221–43.
 
-- Selection from Tatar, Maria, ed. *The Classic Fairy Tales*. New York: W.
+Explore: Selection from Tatar, Maria, ed. *The Classic Fairy Tales*. New York: W.
   W. Norton & Company, 1999.
 
 [41]: https://web-p-ebscohost-com.ezproxy.cul.columbia.edu/ehost/ebookviewer/ebook/ZTAyNXhuYV9fMjcyMzg3X19BTg2?sid=03e3766f-6e35-467c-a572-1d8c11079363@redis&vid=0&format=EB&lpid=lp_27&rid=0
@@ -109,7 +107,7 @@ Introductions. Structure of the class. Topics covered. Grading and attendance po
   Variability, Localization and Contemporary Legend][43].” In *Contemporary Legend*. Routledge,
   1996.
 
-- Selection from: Brunvand, Jan Harold. *The Vanishing Hitchhiker: American Urban Legends
+Explore: Selection from: Brunvand, Jan Harold. *The Vanishing Hitchhiker: American Urban Legends
   and Their Meanings*. W. W. Norton & Company, 2003.
 
 [43]: https://www-taylorfrancis-com.ezproxy.cul.columbia.edu/chapters/edit/10.4324/9780203726693-15/welcome-mainland-welcome-world-aids-cultural-variability-localization-contemporary-legend-diane-goldstein?context=ubx&refId=4c73184c-b950-423a-a635-afbc68583a0e
@@ -123,9 +121,8 @@ Introductions. Structure of the class. Topics covered. Grading and attendance po
 - Stromberg, Peter. “[Elvis Alive?: The Ideology of American Consumerism][62].” In
   Contemporary Legend. Routledge, 1996.
 
-- Selection from Dégh, Linda. [*Indiana Folklore: A Reader*][64]. Bloomington : Indiana
-  University Press, 1980.
-- Selections from: Hurston, Zora Neale. *Mules and Men*. New York: Amistad, 1990.
+Explore: Selection from Dégh, Linda. [*Indiana Folklore: A Reader*][64]. Bloomington : Indiana
+  University Press, 1980. Selections from: Hurston, Zora Neale. *Mules and Men*. New York: Amistad, 1990.
 
 [61]: https://www-taylorfrancis-com.ezproxy.cul.columbia.edu/chapters/edit/10.4324/9780203726693-16/vaginal-serpent-themes-mexican-american-women-lore-rosan-jordan?context=ubx&refId=f552ce0c-ac3c-49e5-985b-3ff7b01ea85c
 [62]: https://www.taylorfrancis.com/chapters/edit/10.4324/9780203726693-20/elvis-alive-ideology-american-consumerism-peter-stromberg
@@ -141,10 +138,10 @@ Introductions. Structure of the class. Topics covered. Grading and attendance po
 - Reaver, J. Russell. "From reality to fantasy: Opening-closing formulas in the structures
   of American tall tales." *[Southern Folklore Quarterly][72]* 36 (1972): 369-382.
 
-- Selection from: Hart, Fred H. *The Sazerac Lying Club*. H. Keller & Company, 1878.
-- Selection from: Fee, Christopher R., and Jeffrey B. Webb, eds. *American Myths, Legends,
-  and Tall Tales: An Encyclopedia of American Folklore*. Santa Barbara, California:
-  ABC-CLIO, 2016.
+Explore: Selection from: Hart, Fred H. *The Sazerac Lying Club*. H. Keller & Company,
+1878. Selection from: Fee, Christopher R., and Jeffrey B. Webb, eds. *American Myths,
+Legends, and Tall Tales: An Encyclopedia of American Folklore*. Santa Barbara, California:
+ABC-CLIO, 2016.
 
 [71]: https://archive.org/details/americanhumorstu00rour 
 [72]: https://babel.hathitrust.org/cgi/pt?id=inu.30000103844456&seq=8
@@ -158,7 +155,7 @@ Introductions. Structure of the class. Topics covered. Grading and attendance po
 - Turner, Patricia A. “Church’s Fried Chicken and The Klan: A Rhetorical Analysis of Rumor
   in the Black Community.” *Western Folklore* 46, no. 4 (1987): 294–306.
 
-- Explore: [World War II Rumor Project][85] at the Library of Congress
+Explore: [World War II Rumor Project][85] at the Library of Congress.
 
 [85]: https://www.loc.gov/collections/world-war-ii-rumor-project/about-this-collection/
 
@@ -168,16 +165,17 @@ Introductions. Structure of the class. Topics covered. Grading and attendance po
   Folklore* 84, no. 331 (1971): 93–103.
 - Alver, Bente Gullveig. “The Bearing of Folk Belief on Cure and Healing.” Journal of
   Folklore Research 32, no. 1 (1995): 21–33.
-- Tangherlini, Timothy R., Shadi Shahsavari, Behnam Shahbazi, Ehsan Ebrahimzadeh, and
-  Vwani Roychowdhury. “[An Automated Pipeline for the Discovery of Conspiracy and
-  Conspiracy Theory Narrative Frameworks: Bridgegate, Pizzagate and Storytelling on the
-  Web][93].” PLOS ONE 15, no. 6 (June 16, 2020): e0233879.
 - Labotka, Danielle, and Susan A. Gelman. “Scientific and Folk Theories of Viral
   Transmission: A Comparison of COVID-19 and the Common Cold.” Frontiers in Psychology 13j
   (June 28, 2022).
 
 [91]: https://www.jstor.org/stable/539737?seq=7
 [93]: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0233879
+
+Explore:  Tangherlini, Timothy R., Shadi Shahsavari, Behnam Shahbazi, Ehsan Ebrahimzadeh,
+and Vwani Roychowdhury. “[An Automated Pipeline for the Discovery of Conspiracy and
+Conspiracy Theory Narrative Frameworks: Bridgegate, Pizzagate and Storytelling on the
+Web][93].” PLOS ONE 15, no. 6 (June 16, 2020): e0233879.
 
 ### Week 10: Performance
 
@@ -190,6 +188,8 @@ Introductions. Structure of the class. Topics covered. Grading and attendance po
 
 [101]: https://www.jstor.org/stable/674535?seq=2
 
+Explore: TBA (visual material / public theater)
+
 ### Week 11: Propaganda
 
 - Chapters 1 & 2 in Ellul, Jacques. *Propaganda: The Formation of Men’s Attitudes*.
@@ -200,6 +200,8 @@ Introductions. Structure of the class. Topics covered. Grading and attendance po
   Control.” In Social Media and Democracy, edited by Joshua A. Tucker and Nathaniel
   Persily, 89–110. SSRC Anxieties of Democracy. Cambridge: Cambridge University Press,
   2020.
+
+Explore: White Rose sticker archive.
 
 ### Week 12: Disinformation
 
@@ -224,8 +226,8 @@ Introductions. Structure of the class. Topics covered. Grading and attendance po
 - Dentith, M R. X. “Expertise and Conspiracy Theories.” Social Epistemology 32, no. 3 (May
   4, 2018): 196–208.
 
-- Selections from Fee, Christopher R., and Jeffrey B. Webb, eds. Conspiracies and
-  Conspiracy Theories in American History. Santa Barbara, CA: ABC-CLIO, 2019.
+Explore: Selections from Fee, Christopher R., and Jeffrey B. Webb, eds. Conspiracies and
+Conspiracy Theories in American History. Santa Barbara, CA: ABC-CLIO, 2019.
 
 ### Week 14: Final Projects
 
