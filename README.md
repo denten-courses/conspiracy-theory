@@ -1,18 +1,15 @@
-# CLEN 4728: Literature in the Age of Artificial Intelligence (LIT-AI)
+# CLEN 4xxx: Conspiracy Theory
 
 > with Prof. Dennis Yi Tenen  
-> TAs Julia Meghan Walton and Patrick Anson  
 > Department of English and Comparative Literature  
-> Spring 2024  
+> Fall 2024  
 > MW 2:40 - 3:55pm  
-> 5AB KRAFT CENTER
 
 ### Office Hours
 
 | Name          | Time        | Location         |
 | --------------|-------------| ---------------- |
 | Dennis YT     | W 4--5pm    | Philosophy 408e  |
-| Patrick A     | Th 12--1pm  |                  |
 
 ### Course Description
 
@@ -65,169 +62,110 @@ writing process.
 
 # Provisional Schedule & Reading List
 
-### Week 1 (Jan 17th)
+### Week 1: Intro
 
 Introductions. Structure of the class. Topics covered. Grading and attendance policy.
 
-## Part I: Tall Tale
+### Week 2: Myth
 
-### Week 2
+- Lévi-Strauss, Claude. “The Structural Study of Myth.” *The Journal of American Folklore*
+  68, no. 270 (1955): 428–44.
+- Malinowski, Bronislaw. “The Role of Myth in Life.” In The Role of Myth in Life, 193–206.
+  University of California Press, 1984.
+- Wender, Dorothea. “The Myth of Washington.” Arion: A Journal of Humanities and the
+  Classics 3, no. 1 (1976): 71–78.
+
+- Selection from Metamorphoses (~8 CE) by Ovid.
+
+### Week 3: Folktale
+
+### Week 4: Legend
+
+- Tangherlini, Timothy R. “‘It Happened Not Too Far from Here...’: A Survey of Legend
+  Theory and Characterization.” Western Folklore 49, no. 4 (1990): 371–90.
+- Degh, Linda. “What Is A Belief Legend?” Folklore 107 (1996): 33–46.
+- Fine, Gary Alan. “The Kentucky Fried Rat: Legends and Modern Society.” Journal of the
+  Folklore Institute 17, no. 2/3 (1980): 222–43.
+
+- "The Legend of Sleepy Hollow" (1820) by Washington Irving.
+
+### Week 5: Urban Legend
+
+- Best, Joel, and Gerald T. Horiuchi. “The Razor Blade in the Apple: The Social
+  Construction of Urban Legends.” Social Problems 32, no. 5 (1985): 488–99.
+- Tree, Jean E. Fox, and Mary Susan Weldon. “Retelling Urban Legends.” The American
+  Journal of Psychology 120, no. 3 (2007): 459–76.
+- Goldstein, Diane E. “[Welcome to the Mainland, Welcome to the World of Aids: Cultural
+  Variability, Localization and Contemporary Legend][43].” In *Contemporary Legend*. Routledge,
+  1996.
+
+- Selection from: Brunvand, Jan Harold. *The Vanishing Hitchhiker: American Urban Legends
+  and Their Meanings*. W. W. Norton & Company, 2003.
+
+[43]: https://www-taylorfrancis-com.ezproxy.cul.columbia.edu/chapters/edit/10.4324/9780203726693-15/welcome-mainland-welcome-world-aids-cultural-variability-localization-contemporary-legend-diane-goldstein?context=ubx&refId=4c73184c-b950-423a-a635-afbc68583a0e
+
+
+### Week 6: Lore
+
+- Fox, William S. “[Folklore and Fakelore: Some Sociological Considerations][63].” Journal of
+  the Folklore Institute 17, no. 2/3 (1980): 244–61.
+- Jordan, Rosan A. “[The Vaginal Serpent and Other Themes from Mexican-American Women’s
+  Lore][61].” *In Contemporary Legend*. Routledge, 1996.
+- Stromberg, Peter. “[Elvis Alive?: The Ideology of American Consumerism][62].” In
+  Contemporary Legend. Routledge, 1996.
+
+- Selection from Dégh, Linda. [*Indiana Folklore: A Reader*][64]. Bloomington : Indiana
+  University Press, 1980.
+
+[61]: https://www-taylorfrancis-com.ezproxy.cul.columbia.edu/chapters/edit/10.4324/9780203726693-16/vaginal-serpent-themes-mexican-american-women-lore-rosan-jordan?context=ubx&refId=f552ce0c-ac3c-49e5-985b-3ff7b01ea85c
+[62]: https://www.taylorfrancis.com/chapters/edit/10.4324/9780203726693-20/elvis-alive-ideology-american-consumerism-peter-stromberg
+[63]: https://www.jstor.org/stable/3813897?searchText=folklore+structure&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dfolklore%2Bstructure%26so%3Drel&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&refreqid=fastly-default%3A8355b9dd500709f2b4ad257614f11e10&seq=2
+[64]: https://archive.org/details/indianafolklorer0000degh/page/n5/mode/2up
+
+### Week 7: Tall Tale
 
 - Loomis, C. Grant. “The American Tall Tale and the Miraculous.” California Folklore
   Quarterly 4, no. 2 (1945): 109–28.
-- Hart, Fred H. The Sazerac Lying Club. H. Keller & Company, 1878.
+- Hart, Fred H. *The Sazerac Lying Club*. H. Keller & Company, 1878.
 
-### Week 3
+- Selection from: Fee, Christopher R., and Jeffrey B. Webb, eds. *American Myths, Legends,
+  and Tall Tales: An Encyclopedia of American Folklore*. Santa Barbara, California:
+  ABC-CLIO, 2016.
 
-- Selections from: Fee, Christopher R., and Jeffrey B. Webb, eds. American Myths, Legends, and Tall Tales:
-  An Encyclopedia of American Folklore. Santa Barbara, California: ABC-CLIO, 2016.
+### Week 8: Rumor
 
+- Buckner, H. Taylor. “A Theory of Rumor Transmission.” *The Public Opinion Quarterly* 29,
+  no. 1 (1965): 54–70.
+- Mullen, Patrick B. “Modern Legend and Rumor Theory.” *Journal of the Folklore Institute*
+  9, no. 2/3 (1972): 95–109.
+- Turner, Patricia A. “Church’s Fried Chicken and The Klan: A Rhetorical Analysis of Rumor
+  in the Black Community.” *Western Folklore* 46, no. 4 (1987): 294–306.
 
+### Week 9: Folk Belief
 
-## Part II: Rumor
+### Week 10: Performance
 
-Rumor in Homer.
+- Bauman, Richard. “[Verbal Art as Performance][101].” American Anthropologist 77, no. 2
+  (1975): 290–311.
+- "Introduction" from Bakhtin, Mikhail. *Rabelais and His World*. Indiana University Press,
+  1984.
 
-### Week 4
+[101]: https://www.jstor.org/stable/674535?seq=2
 
-- "Ars Brevis" in the *Selected Works of Ramón Llull (1232-1316)*, [pages 569-646][302]
-  and in the "Principles of Medicine" [pages 1119-1130 and 1199-1214.][303]
-- "The Real Meaning of Prophesy, Soothsaying, Dream Visions, Dream Words, Divination,
-  Supernatural Perception, Geomancy, The Za'irajah" by Ibn Khaldun translated Franz
-  Rozenthal in [*The Muqqaddimah*][305], Volume 1 (Princeton UP, 1958[1377]). Pages
-  184--245.
-- For background browse Chapter 2, pages 40-69 in Truitt, E. R. [*Medieval Robots:
-  Mechanism, Magic, Nature, and Art*][304] (University of Pennsylvania Press, 2016). I
-  suggest you do not write your weekly response post on this text.
+### Week 11: Propaganda
 
-  [301]: https://courseworks2.columbia.edu/courses/143944/files?preview=13320901 
-  [302]: https://courseworks2.columbia.edu/courses/143944/files?preview=13320924
-  [303]: https://courseworks2.columbia.edu/courses/143944/files?preview=13320935
-  [304]: https://courseworks2.columbia.edu/courses/143944/files?preview=13320948
-  [305]: https://courseworks2.columbia.edu/courses/191258/files?preview=19716581
+### Week 12: Disinformation
 
-### Week 5
+### Week 13: Misinformation
 
-- "[Love-Kiss XLI][403]" (1671) by Quirinus Kuhlmann.
-- "[On the Combinatorial Art][404]" (1666) by Gottfried Leibniz.
-- ~~Selections from Bright, Timothe. [*Characterie: An Arte of Shorts, Swifte and Secrete
-  Writing by Character*][401],  I. Windet, 1588.~~
-- **Explore**: [*An Essay Towards a Real Character, and a Philosophical Language*][405] (London,
-  1668) by John Wilkins, with particular attention to the Dedicatory, Part 1 Chapter 1 (pages
-1-5), and Part 4 Chapter 1-2 (pages 385-413).
+### Week 14: Conspiracy
 
-[401]: http://gateway.proquest.com.ezproxy.cul.columbia.edu/openurl?ctx_ver=Z39.88-2003&res_id=xri:eebo&rft_id=xri:eebo:image:11523
-[402]: https://courseworks2.columbia.edu/files/6929616/download?download_frd=1
-[403]: https://www.jstor.org/stable/25706521
-[404]: https://courseworks2.columbia.edu/files/13328741/download?download_frd=1
-[405]: https://archive.org/download/AnEssayTowardsARealCharacterAndAPhilosophicalLanguage/An_Essay_Towards_a_Real_Character_and_a.pdf
-[406]: https://courseworks2.columbia.edu/files/13328738/download?download_frd=1
+- Selections from Fee, Christopher R., and Jeffrey B. Webb, eds. Conspiracies and
+  Conspiracy Theories in American History. Santa Barbara, CA: ABC-CLIO, 2019.
 
-## Part III: Propaganda
+### Week 14: Final Projects
 
-### Week 6
-
-### Week 7
-
-- ~"Introduction" in Fansler, Harriott Ely. [*Types of Prose Narratives: A Text-Book for the
-  Story Writer*][701]. Chicago, IL: Row, Peterson & Company, 1911.~
-- ~**Explore**: Phillips, Henry Albert. [*The Universal Plot Catalog: An Examination of the Elements of Plot
-  Material and Construction, Combined with a Complete Index and a Progressive Category in Which
-the Source, Life, and End of All Dramatic Conflict and Plot Master Are Classified*][703].
-Springfield, MA: The Home Correspondence School, 1920.~
-- ~**Explore**: Hill, Wycliffe Aber. *Ten Million Photoplay Plots, Master Key to All Dramatic Plots*. Los
-  Angeles, CA: The Feature Photodrama Company, 1919.~
-- ~Wharton, Edith. “The Writing of Fiction: Telling a Short Story.” Scribners, April 1925,
-  344–49.~
-
-  [701]: https://courseworks2.columbia.edu/files/13329309/download?download_frd=1
-  [703]: https://courseworks2.columbia.edu/files/13329318/download?download_frd=1
-  [705]: https://www-cambridge-org.ezproxy.cul.columbia.edu/core/services/aop-cambridge-core/content/view/EA1E005FA0BC4522399A4E9DA0304862/S0269889706001074a.pdf/an_example_of_statistical_investigation_of_the_text_eugene_onegin_concerning_the_connection_of_samples_in_chains.pdf
-
-### Week 8
-
-- "Web-Work Plot Structure" in *The Student Writer* Volume II, Numbers 6&7, June and July 1917.
-  (Contained in the first 25 pages of the [linked document][801]).
-- Pages 1-17 in [*Plotto: The Master Book of All Plots*][802] (1928) by William Wallace
-Cook. **Explore** the rest of the volume.
-- Markov, A. A. “[An Example of Statistical Investigation of the Text Eugene Onegin Concerning
-  the Connection of Samples in Chains][705].” Science in Context 19, no. 4 (December 2006
-[1914]): 591–600.
-- **Explore**: Loayza, Thomas A. [*Story Game*][803]. United States US1716069A, filed January 12, 1927, and
-  issued June 4, 1929.
-
-[801]: https://courseworks2.columbia.edu/files/13329320/download?download_frd=1
-[802]: https://courseworks2.columbia.edu/files/13329354/download?download_frd=1
-[803]: https://patents.google.com/patent/US1716069A/en
-
-## Part IV: Misinformation
-
-### Week 9
-
-- Pages 45-50 and 118-125 in Ludwig Wittgenstein's [*Blue and Brown Notebooks*][902] (1933-35).
-- Pages 127-150 from [*The Language And Thought Of The Child*][903] (1926) by Jean Piaget.
-- Pages 11-25 from [*Syntactic Structure*][901] (1957) by Noam Chomsky.
-- ~**Explore**: Hill, Wycliffe. *The Plot Genie Index*. Hollywood, CA: E. E. Gagnon, 1935.~
-
-[901]: https://courseworks2.columbia.edu/files/13329286/download?download_frd=1
-[902]: https://courseworks2.columbia.edu/files/13329284/download?download_frd=1
-[903]: https://courseworks2.columbia.edu/files/13329336/download?download_frd=1
-
-### Week 10
-
-- ~"Introduction" in Fansler, Harriott Ely. [*Types of Prose Narratives: A Text-Book for the
-  Story Writer*][701]. Chicago, IL: Row, Peterson & Company, 1911.~
-- ~**Explore**: Phillips, Henry Albert. [*The Universal Plot Catalog: An Examination of the Elements of Plot
-  Material and Construction, Combined with a Complete Index and a Progressive Category in Which
-the Source, Life, and End of All Dramatic Conflict and Plot Master Are Classified*][703].
-Springfield, MA: The Home Correspondence School, 1920.~
-- ~**Explore**: Hill, Wycliffe Aber. *Ten Million Photoplay Plots, Master Key to All Dramatic Plots*. Los
-  Angeles, CA: The Feature Photodrama Company, 1919.~
-- ~Wharton, Edith. “The Writing of Fiction: Telling a Short Story.” Scribners, April 1925,
-  344–49.~
-
-  [701]: https://courseworks2.columbia.edu/files/13329309/download?download_frd=1
-  [703]: https://courseworks2.columbia.edu/files/13329318/download?download_frd=1
-  [705]: https://www-cambridge-org.ezproxy.cul.columbia.edu/core/services/aop-cambridge-core/content/view/EA1E005FA0BC4522399A4E9DA0304862/S0269889706001074a.pdf/an_example_of_statistical_investigation_of_the_text_eugene_onegin_concerning_the_connection_of_samples_in_chains.pdf
-
-### Week 11
-
-- "Web-Work Plot Structure" in *The Student Writer* Volume II, Numbers 6&7, June and July 1917.
-  (Contained in the first 25 pages of the [linked document][801]).
-- Pages 1-17 in [*Plotto: The Master Book of All Plots*][802] (1928) by William Wallace
-Cook. **Explore** the rest of the volume.
-- Markov, A. A. “[An Example of Statistical Investigation of the Text Eugene Onegin Concerning
-  the Connection of Samples in Chains][705].” Science in Context 19, no. 4 (December 2006
-[1914]): 591–600.
-- **Explore**: Loayza, Thomas A. [*Story Game*][803]. United States US1716069A, filed January 12, 1927, and
-  issued June 4, 1929.
-
-[801]: https://courseworks2.columbia.edu/files/13329320/download?download_frd=1
-[802]: https://courseworks2.columbia.edu/files/13329354/download?download_frd=1
-[803]: https://patents.google.com/patent/US1716069A/en
-
-## Part V: Conspiracy
-
-### Week 12
-
-- Selections from Fee, Christopher R., and Jeffrey B. Webb, eds. Conspiracies and Conspiracy Theories in
-  American History. Santa Barbara, CA: ABC-CLIO, 2019.
-
-### Week 13
-### Week 14
-
-- Robertson, Judy, and Judith Good. [“Story Creation in Virtual Game Worlds.”][1401] *Commun. ACM* 48,
-  no. 1 (January 2005): 61–65.
-- Lee, Jieh-Sheng, and Jieh Hsiang. [“Patent Claim Generation by Fine-Tuning OpenAI GPT-2.”][1402]
-  ArXiv:1907.02052 [Cs, Stat], June 30, 2019.
-- Adelani, David Ifeoluwa, Haotian Mai, Fuming Fang, Huy H. Nguyen, Junichi Yamagishi, and Isao
-  Echizen. [“Generating Sentiment-Preserving Fake Online Reviews Using Neural Language Models
-and Their Human- and Machine-Based Detection.”][1403] ArXiv:1907.09177 [Cs], July 22, 2019.
-
-[1401]: https://courseworks2.columbia.edu/files/13329475/download?download_frd=1
-[1402]: https://courseworks2.columbia.edu/files/13329462/download?download_frd=1
-[1403]: https://courseworks2.columbia.edu/files/13329393/download?download_frd=1
-
+- Highlights from student projects.
 
 
 ## Reading List
