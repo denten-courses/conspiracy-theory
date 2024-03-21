@@ -1,4 +1,4 @@
-# CLEN 4xxx: Conspiracy Theory
+# CLEN 6xxx: Conspiracy Theory
 
 > with Prof. Dennis Yi Tenen  
 > Department of English and Comparative Literature  
@@ -25,27 +25,21 @@ In each week, we will **first** familiarize ourselves with secondary---scholarly
 theoretical sources, and **second** encounter a number of primary materials "from the
 field" of folklore studies, anthropology, literature, and digital ethnography.
 
-This being a reading- and research-intensive curriculum, the class is open to advanced
-undergraduates and graduate students from all departments. The students should expect to
-synthesize ~100 pages of reading per week, write short response papers, and complete a
-final project based on original archival research.
+This being a reading- and research-intensive curriculum, the class is open to graduate
+students from all departments. The students should expect to synthesize ~100 pages of
+reading per week, write short response papers, and complete a final project based on
+original archival research.
 
 All readings will be linked from the syllabus. Please print and bring to class when
 possible.
 
 ### Course Requirements & Grading
 
-- 25%     Online Forum Reading Response
-- 25%     Class Participation
-- 25%     Lab and Homework Assignments
-- 25%     Project Proposal and Final Project
+- 50%     Class & Online Participation
+- 25%     Project Proposal
+- 25%     Final Project
 
-All written work should be submitted to our Courseworks page.
-
-Discussion Forum posts are due on Sundays, by midnight. You are encouraged to respond to
-others as well as to write new posts. In either case, stay close to the text by discussing
-specific passages. A good response will elicit conversation, ask questions, express
-puzzlement or illuminate particularly lucid moments of the work.
+All written work should be submitted to the Courseworks page.
 
 ### Class and University Policies
 
