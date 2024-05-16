@@ -57,6 +57,12 @@ writing process.
 
 Introductions. Structure of the class. Topics covered. Grading and attendance policy.
 
+- "[The Forms of Folklore: Prose Narratives][02]" by William Bascom in The Journal of American
+  Folklore, Vol. 78, No. 307 (Jan. - Mar., 1965) pp. 3-20.
+
+  [02]: https://www.jstor.org/stable/538099
+
+
 ### Week 2: Myth
 
 - Lévi-Strauss, Claude. “The Structural Study of Myth.” *The Journal of American Folklore*
