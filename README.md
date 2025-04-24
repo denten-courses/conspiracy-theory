@@ -84,8 +84,10 @@ Explore: Selection from Metamorphoses (~8 CE) by Ovid.
 
 Explore: "The Legend of Sleepy Hollow" (1820) by Washington Irving.
 
-### Week 4: Fairytale
+### Week 4: Tales of the Supernatural
 
+- Andrew Lang. Cocklane and Commonsense. 
+- Andrew Lang. Dreams and Ghosts.
 - "[Two Accounts of the Grimms' Tales][41]" in Bottigheimer, Ruth B. Fairy Tales: A New
   History. Albany, N.Y: State University of New York Press, 2009.
 - Zipes, Jack. “[The Meaning of Fairy Tale within the Evolution of Culture][42].” Marvels &
@@ -232,5 +234,11 @@ Conspiracy Theories in American History. Santa Barbara, CA: ABC-CLIO, 2019.
 ### Week 14: Final Projects
 
 - Highlights from student projects.
+
+Creating conspiracy beliefs : how our thoughts are shaped
+Kathleen Hall Jamieson
+
+Peter Pomerantsev
+
 
 
